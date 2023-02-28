@@ -1,0 +1,39 @@
+.Hero_section {
+
+background: #D4EDF8
+}
+
+.Hero_section .container .Hero_raw .Content_Left h1 {
+color: #8569f6
+
+}
+
+.Hero_section .container {
+padding-top: 100px;
+height: 100vh;
+align-items: center;
+
+}
+.Hero_section .Hero_raw {
+display: flex;
+align-items: center;
+height: 70vh;
+}
+
+.Hero_section .Hero_raw *{
+
+}
+.Hero_section .Hero_raw > div{
+float: left;
+width: 50%;
+}
+
+.Hero_section #button {
+padding: 15px;
+border: none;
+color:#fff;
+font-size: medium;
+background-color: rgb(110, 110, 193);
+border-radius: 40px;
+
+}
